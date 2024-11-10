@@ -1,1 +1,1 @@
-# magento2-upc-ecom
+# magento2-payment-upc
