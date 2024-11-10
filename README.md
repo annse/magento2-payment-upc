@@ -1,2 +1,1 @@
-# magento2-ecconnect
-ecconnect
+# magento2-upc-ecom
